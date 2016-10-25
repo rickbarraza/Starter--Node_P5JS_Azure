@@ -1,0 +1,16 @@
+{
+  "name": "crsockets",
+  "version": "1.0.0",
+  "description": "setting up p5.js with node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rick Barraza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  }
+}
